@@ -25,6 +25,7 @@ This will start a development server at http://localhost:5173 and you should be 
 
 - Handle decimal numbers.
 - Improve design on last row of the calculator.
+- Add logic to percentual operator.
 
 ## Known Bugs
 
